@@ -1,0 +1,20 @@
+[
+    {
+        "image": "image1.webp",
+        "title": "Booki",
+        "text": "Intégration d'une interface responsive en HTML/CSS pur à partir d'une maquette Figma. Focus sur le mobile-first et l'accessibilité.",
+        "link": "https://github.com/yannd38-coder/booki-starter-code.git"
+    },
+    {
+        "image": "image3.webp",
+        "title": "Kasa",
+        "text": "Développement front-end d'une application de location immobilière. Création de composants React réutilisables et gestion des routes.",
+        "link": "https://github.com/yannd38-coder/TesteurLogiciel_appli_location_immobiliere_React-main.git"
+    },
+    {
+        "image": "ecobliss.webp",
+        "title": "EcoBliss ",
+        "text": "Élaboration d'une stratégie de test, rédaction d'un cahier de recettes et automatisation de tests E2E avec Cypress.",
+        "link": "https://github.com/yannd38-coder/eco-bliss-bath.git"
+    }
+]
