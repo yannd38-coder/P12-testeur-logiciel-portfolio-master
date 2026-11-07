@@ -80,7 +80,7 @@ nav.navbar-dark .navbar-brand {
 /* skills */
 .skillsText.card {
     height: 350px;
-    cursor: pointer;
+    cursor: default;
 }
 
 .skillsText img {

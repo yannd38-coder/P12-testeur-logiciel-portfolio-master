@@ -2,19 +2,37 @@
     {
         "image": "image1.webp",
         "title": "Booki",
-        "text": "Intégration d'une interface responsive en HTML/CSS pur à partir d'une maquette Figma. Focus sur le mobile-first et l'accessibilité.",
+        "text": "Intégration d'une interface responsive en HTML/CSS pur à partir d'une maquette.<br> Focus sur le mobile-first et l'accessibilité.",
         "link": "https://github.com/yannd38-coder/booki-starter-code.git"
+    },
+    {
+        "image": "sophie_bluel.webp",
+        "title": "Portfolio Sophie Bluel",
+        "text": "Création d'une page web dynamique pour une architecte d'intérieur avec JavaScript.<br>Gestion des requêtes API et conception d'une modale.",
+        "link": "https://github.com/yannd38-coder/Portfolio-architecte-sophie-bluel.git"
     },
     {
         "image": "image3.webp",
         "title": "Kasa",
-        "text": "Développement front-end d'une application de location immobilière. Création de composants React réutilisables et gestion des routes.",
+        "text": "Développement front-end d'une application de location immobilière.<br> Création de composants React réutilisables et gestion des routes.",
         "link": "https://github.com/yannd38-coder/TesteurLogiciel_appli_location_immobiliere_React-main.git"
+    },
+    {
+        "title": "724 Events",
+        "image": "image_724events.webp",
+        "text": "Débogage et tests sur environnement Docker.<br>Création d'un cahier de recettes et priorisation des bugs.",
+        "link": "https://app.notion.com/p/3c2ae1e4abe08287a08681be50e36de6?v=04dae1e4abe082e5b239889b92c9235a&source=copy_link"
     },
     {
         "image": "ecobliss.webp",
         "title": "EcoBliss ",
-        "text": "Élaboration d'une stratégie de test, rédaction d'un cahier de recettes et automatisation de tests E2E avec Cypress.",
+        "text": "Élaboration d'une stratégie de test,<br> rédaction d'un cahier de recettes et automatisation de tests E2E avec Cypress.",
         "link": "https://github.com/yannd38-coder/eco-bliss-bath.git"
+    },
+    {
+        "title": "Tomsen",
+        "image": "tomsen_logo.webp",
+        "text": "Élaboration d'une stratégie de test complète.<br>Définition des scénarios de test et de non-régression par sprint.",
+        "link": "./documents/Strategie_de_test_TOMSEN_yann_dicko.pdf"
     }
 ]
