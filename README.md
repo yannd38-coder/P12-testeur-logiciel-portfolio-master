@@ -20,7 +20,10 @@ Ce dépôt contient le code source de mon portfolio professionnel, développé e
 
 1. **Booki :** Intégration responsive HTML/CSS à partir d'une maquette Figma (Mobile-first & Accessibilité).
 2. **Kasa :** Développement front-end d'une application de location immobilière en React.
-3. **Eco-Bliss-Bath :** Élaboration d'une stratégie de test, cahier de recettes et automatisation de la suite de tests E2E avec Cypress.
+3. **Sophie Bluel :** Création d'une page web dynamique pour une architecte d'intérieur avec JavaScript, gestion des requêtes API et conception d'une modale.
+4. **Eco-Bliss-Bath :** Élaboration d'une stratégie de test, cahier de recettes et automatisation de la suite de tests E2E avec Cypress.
+5. **Thomsen :** Élaboration d'une stratégie de test détaillée, définition des scénarios de test et de non-régression par sprint.
+6. **724 Events :** Débogage et tests d'API sur environnement Docker, création d'un cahier de recettes et priorisation des bugs.
 
 ---
 

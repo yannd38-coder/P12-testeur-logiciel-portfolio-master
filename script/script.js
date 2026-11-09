@@ -73,18 +73,23 @@ function createPortfolioFromJSON() {
             data.forEach((item, index) => {
                 const card = document.createElement("div");
                 card.classList.add("col-12", "col-md-6", "col-lg-4", "mt-4", "mb-4");
+
+                // 1. Déclaration des variables d'accessibilite pour les pdf
+                const isPdf = item.link.endsWith(".pdf");
+                const ariaSuffix = isPdf ? "(Ouvre un document PDF)" : "(Ouvre un nouvel onglet)";
+
                 card.innerHTML = `
-                    <div class="card portfolioContent">
-                    <img class="card-img-top" src="images/${item.image}" alt="${item.title}" style="width:100%">
-                    <div class="card-body">
-                        <h3 class="card-title">${item.title}</h3>
-                        <p class="card-text">${item.text}</p>
-                        <div class="text-center">
-                            <a href="${item.link}" target="_blank" class="btn btn-success">Lien</a>
-                        </div>
+            <div class="card portfolioContent">
+                <img class="card-img-top" src="images/${item.image}" alt="${item.title}" style="width:100%">
+                <div class="card-body">
+                    <h3 class="card-title">${item.title}</h3>
+                    <p class="card-text">${item.text}</p>
+                    <div class="text-center">
+                        <a href="${item.link}" target="_blank" class="btn btn-success" aria-label="Découvrir le projet ${item.title} ${ariaSuffix}">Découvrir le projet</a>
                     </div>
                 </div>
-                `;
+            </div>
+        `;
 
                 // Append the card to the current row
                 row.appendChild(card);
