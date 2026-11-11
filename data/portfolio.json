@@ -1,6 +1,6 @@
 [
     {
-        "image": "image1.webp",
+        "image": "image_booki.webp",
         "title": "Booki",
         "text": "Intégration d'une interface responsive en HTML/CSS pur à partir d'une maquette.<br> Focus sur le mobile-first et l'accessibilité.",
         "link": "https://github.com/yannd38-coder/booki-starter-code.git"
@@ -12,7 +12,7 @@
         "link": "https://github.com/yannd38-coder/Portfolio-architecte-sophie-bluel.git"
     },
     {
-        "image": "image3.webp",
+        "image": "image_kasa.webp",
         "title": "Kasa",
         "text": "Développement front-end d'une application de location immobilière.<br> Création de composants React réutilisables et gestion des routes.",
         "link": "https://github.com/yannd38-coder/TesteurLogiciel_appli_location_immobiliere_React-main.git"
